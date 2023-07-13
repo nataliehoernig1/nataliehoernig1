@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Phishing Guide/Presentation</b>
-  - https://github.com/nataliehoernig1/phishing_emails
+  -  [Recognizing & Avoiding Phishing Emails](https://github.com/nataliehoernig1/phishing_emails)
 
 
 <h2>📺 Certifications</h2>
