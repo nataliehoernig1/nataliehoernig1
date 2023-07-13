@@ -1,8 +1,8 @@
 <h1>Hi, I'm Natalie! <br><a href="https://www.linkedin.com/in/nataliejhoernig/">Aspiring Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>PFSense Firewall Tutorial</b>
-   -  [PFSense Configuration Tutorial Video](https://drive.google.com/file/d/1bcqGCB0KK-U4kqeQ-cWInySd7fyfdmq3/view?usp=drive_link)
+- <b>Pfsense Firewall Tutorial</b>
+   -  [Pfsense Configuration Tutorial Video](https://drive.google.com/file/d/1bcqGCB0KK-U4kqeQ-cWInySd7fyfdmq3/view?usp=drive_link)
 - <b>Internship Projects</b>
   -  [Recognizing & Avoiding Phishing Emails Presentation/Guide](https://docs.google.com/presentation/d/1iPkk4srL_8IOBDQurIlLARdiizVeNnTV5Z0Qf98q450/edit?usp=sharing)
   -  [Detecting & Defending Against Deauthentication Attacks Presentation ](https://docs.google.com/presentation/d/1jPUyk18rmBRWeJXHYfrThUBbCbbB9dspHaHxPJrppoo/edit?usp=sharing)
