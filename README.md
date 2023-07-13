@@ -1,7 +1,7 @@
 <h1>Hi, I'm Natalie! <br><a href="https://www.linkedin.com/in/nataliejhoernig/">Aspiring Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>SOC Home Lab</b>
+- <b>Phishing Guide/Presentation</b>
   - 
 
 
