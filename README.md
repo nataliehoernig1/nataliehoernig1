@@ -8,6 +8,8 @@
   -  [Detecting & Defending Against Deauthentication Attacks Presentation ](https://docs.google.com/presentation/d/1jPUyk18rmBRWeJXHYfrThUBbCbbB9dspHaHxPJrppoo/edit?usp=sharing)
   -  [Cracking a Password Protected XLS File](https://docs.google.com/presentation/d/1jPUyk18rmBRWeJXHYfrThUBbCbbB9dspHaHxPJrppoo/edit?usp=sharing)
   -  [Follina Vulnerability Presentation](https://docs.google.com/presentation/d/1hTRg7WNLPE9Va8d_5hajqaRY5n3Ov0DMi-b8dviTcgQ/edit#slide=id.gc6f73a04f_0_0)
+- <b>Online Labs & Training</b>
+  -  [TryHackMe Profile](https://tryhackme.com/p/N00dl3S)
 
 
 
