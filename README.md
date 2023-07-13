@@ -1,10 +1,10 @@
 <h1>Hi, I'm Natalie! <br><a href="https://www.linkedin.com/in/nataliejhoernig/">Aspiring Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Phishing Guide/Presentation</b>
-  -  [Recognizing & Avoiding Phishing Emails](https://docs.google.com/presentation/d/1iPkk4srL_8IOBDQurIlLARdiizVeNnTV5Z0Qf98q450/edit?usp=sharing)
-- <b>Deauthentication Attacks Presentation</b>
-  -  [Detecting & Defending Against Deauthentication Attacks ](https://docs.google.com/presentation/d/1jPUyk18rmBRWeJXHYfrThUBbCbbB9dspHaHxPJrppoo/edit?usp=sharing)
+- <b>Internship Projects</b>
+  -  [Recognizing & Avoiding Phishing Emails Presentation/Guide](https://docs.google.com/presentation/d/1iPkk4srL_8IOBDQurIlLARdiizVeNnTV5Z0Qf98q450/edit?usp=sharing)
+  -  [Detecting & Defending Against Deauthentication Attacks Presentation ](https://docs.google.com/presentation/d/1jPUyk18rmBRWeJXHYfrThUBbCbbB9dspHaHxPJrppoo/edit?usp=sharing)
+  -  [Cracking a Password Protected XLS File](https://docs.google.com/presentation/d/1jPUyk18rmBRWeJXHYfrThUBbCbbB9dspHaHxPJrppoo/edit?usp=sharing)
 
 
 
