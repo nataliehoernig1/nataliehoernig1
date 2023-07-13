@@ -17,7 +17,7 @@
 - [TestOut Server Pro 2016: Install and Storage](https://certification.testout.com/verifycert?certificateId=6-1C6-KE4FP)
 - [TestOut PC Pro](https://verification.testout.com/verifycert/6-1C6-8HQBT)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🖱 Connect with me:</h2>
 
 [<img align="left" alt="NatalieHoernig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
