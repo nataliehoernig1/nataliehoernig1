@@ -1,5 +1,5 @@
 <h1>Hi, I'm Natalie! <br><a href="https://www.linkedin.com/in/nataliejhoernig/">Aspiring Cybersecurity Professional</a>
-<h2>👨‍💻 Cybersecurity Projects/Labs:</h2>
+<h2> 💻 Cybersecurity Projects/Labs:</h2>
 
 - <b>Pfsense Firewall Tutorial</b>
    -  [Pfsense Configuration Tutorial Video](https://drive.google.com/file/d/1bcqGCB0KK-U4kqeQ-cWInySd7fyfdmq3/view?usp=drive_link)
@@ -11,7 +11,7 @@
 
 
 
-<h2>📺 Certifications</h2>
+<h2>📜 Certifications</h2>
 
 - [TestOut Security Pro](https://certification.testout.com/verifycert?certificateId=6-1C6-MMJNL)
 - [TestOut Server Pro 2016: Install and Storage](https://certification.testout.com/verifycert?certificateId=6-1C6-KE4FP)
