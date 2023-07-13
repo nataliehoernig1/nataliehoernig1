@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Phishing Guide/Presentation</b>
-  -  [Recognizing & Avoiding Phishing Emails](https://docs.google.com/presentation/d/1iPkk4srL_8IOBDQurIlLARdiizVeNnTV5Z0Qf98q450/edit?usp=sharing){:target="_blank" rel="noopener"}
+  -  [Recognizing & Avoiding Phishing Emails](https://docs.google.com/presentation/d/1iPkk4srL_8IOBDQurIlLARdiizVeNnTV5Z0Qf98q450/edit?usp=sharing) {:target="_blank" rel="noopener"}
 
 
 <h2>📺 Certifications</h2>
