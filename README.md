@@ -2,7 +2,7 @@
 <h2> 💻 Cybersecurity Projects/Labs:</h2>
 
 - <b>Home-based Labs</b>
-   -
+   - [SOC lab]()
 - <b>Pfsense Firewall Tutorial</b>
    -  [Pfsense Configuration Tutorial Video](https://drive.google.com/file/d/1bcqGCB0KK-U4kqeQ-cWInySd7fyfdmq3/view?usp=drive_link)
 - <b>Internship Projects</b>
