@@ -3,6 +3,9 @@
 
 - <b>Phishing Guide/Presentation</b>
   -  [Recognizing & Avoiding Phishing Emails](https://docs.google.com/presentation/d/1iPkk4srL_8IOBDQurIlLARdiizVeNnTV5Z0Qf98q450/edit?usp=sharing)
+ - <b>Phishing Guide/Presentation</b>
+  -  [Recognizing & Avoiding Phishing Emails](https://docs.google.com/presentation/d/1iPkk4srL_8IOBDQurIlLARdiizVeNnTV5Z0Qf98q450/edit?usp=sharing)
+
 
 
 <h2>📺 Certifications</h2>
