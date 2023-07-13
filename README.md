@@ -7,7 +7,7 @@
 
 <h2>📺 Certifications</h2>
 
-- [TestOut Security Pro](a href="https://certification.testout.com/verifycert?certificateId=6-1C6-MMJNL")
+- [TestOut Security Pro](https://certification.testout.com/verifycert?certificateId=6-1C6-MMJNL)
 - [TestOut Server Pro 2016: Install and Storage](https://certification.testout.com/verifycert?certificateId=6-1C6-KE4FP)
 - [TestOut PC Pro](https://verification.testout.com/verifycert/6-1C6-8HQBT)
 
