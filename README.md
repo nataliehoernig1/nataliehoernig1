@@ -5,7 +5,7 @@
    - [SOC Lab]()
    - [Pen Testing Lab- Kali Linux & Empire Breakout VM]()
 - <b>College Projects</b>
-   -  [Pfsense Configuration Tutorial Video](https://github.com/nataliehoernig1/pfsenseproject)
+   -  [PfSense Configuration Tutorial Video](https://github.com/nataliehoernig1/pfsenseproject)
 - <b>Internship Projects</b>
   -  [Recognizing & Avoiding Phishing Emails Presentation/Guide](https://docs.google.com/presentation/d/1iPkk4srL_8IOBDQurIlLARdiizVeNnTV5Z0Qf98q450/edit?usp=sharing)
   -  [Detecting & Defending Against Deauthentication Attacks Presentation ](https://docs.google.com/presentation/d/1jPUyk18rmBRWeJXHYfrThUBbCbbB9dspHaHxPJrppoo/edit?usp=sharing)
