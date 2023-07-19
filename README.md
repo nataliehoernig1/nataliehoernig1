@@ -1,9 +1,6 @@
 <h1>Hi, I'm Natalie! <br><a href="https://www.linkedin.com/in/nataliejhoernig/">Aspiring Cybersecurity Professional</a>
 <h2> 💻 Cybersecurity Projects/Labs:</h2>
 
-- <b>Home-based Labs</b>
-   - [SOC Lab](Coming Soon)
-   - [Pen Testing Lab- Kali Linux & Empire Breakout VM](Coming Soon)
 - <b>College Projects</b>
    -  [PfSense Configuration Tutorial Video](https://github.com/nataliehoernig1/pfsenseproject)
 - <b>Internship Projects</b>
@@ -13,6 +10,9 @@
   -  [Follina Vulnerability Presentation](https://docs.google.com/presentation/d/1hTRg7WNLPE9Va8d_5hajqaRY5n3Ov0DMi-b8dviTcgQ/edit#slide=id.gc6f73a04f_0_0)
 - <b>Online Labs & Training</b>
   -  [TryHackMe Profile](https://tryhackme.com/p/N00dl3S)
+- <b>Home-based Labs</b>
+   - [SOC Lab](Coming Soon)
+   - [Pen Testing Lab- Kali Linux & Empire Breakout VM](Coming Soon)
 
 
 
