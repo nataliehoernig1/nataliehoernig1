@@ -2,8 +2,8 @@
 <h2> 💻 Cybersecurity Projects/Labs:</h2>
 
 - <b>Home-based Labs</b>
-   - [SOC Lab]()
-   - [Pen Testing Lab- Kali Linux & Empire Breakout VM]()
+   - [SOC Lab](Coming Soon)
+   - [Pen Testing Lab- Kali Linux & Empire Breakout VM](Coming Soon)
 - <b>College Projects</b>
    -  [PfSense Configuration Tutorial Video](https://github.com/nataliehoernig1/pfsenseproject)
 - <b>Internship Projects</b>
