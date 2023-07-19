@@ -3,6 +3,7 @@
 
 - <b>College Projects</b>
    -  [PfSense Configuration Tutorial Video](https://github.com/nataliehoernig1/pfsenseproject)
+   -  [Structured External Assignment: Security Initiative](https://github.com/nataliehoernig1/pfsenseproject)
 - <b>Internship Projects</b>
   -  [Recognizing & Avoiding Phishing Emails Presentation/Guide](https://docs.google.com/presentation/d/1iPkk4srL_8IOBDQurIlLARdiizVeNnTV5Z0Qf98q450/edit?usp=sharing)
   -  [Detecting & Defending Against Deauthentication Attacks Presentation ](https://docs.google.com/presentation/d/1jPUyk18rmBRWeJXHYfrThUBbCbbB9dspHaHxPJrppoo/edit?usp=sharing)
